@@ -1,0 +1,3 @@
+open any code editor like VS code
+run : npm i
+then : npm run dev
